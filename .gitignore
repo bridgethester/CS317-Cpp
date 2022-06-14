@@ -1,0 +1,12 @@
+
+#*
+#ignore all kind of files
+#*.*
+#except cpp files
+#!*.cpp
+
+*
+!/**/
+!*.cpp
+!.gitignore
+!README.md
